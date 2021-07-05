@@ -1,5 +1,5 @@
-<h1 align="center">ASUS-Z590-A-PRO-HACKINTOSH</h1>
-<h3 align="center">华硕 Z590-A PRO 黑苹果 OpenCore 引导配置</h3>
+<h1 align="center">MSI-Z590-A-PRO-HACKINTOSH</h1>
+<h3 align="center">微星 Z590-A PRO 黑苹果 OpenCore 引导配置</h3>
 <br>
 
 ## Disclaimer / 免责声明
@@ -17,7 +17,7 @@ Please choose the branch you need for different graphics cards
 
 | Specifications | Details |
 |:---|:---|
-| Computer Model | ASUS Z590-A PRO |
+| Computer Model | MSI Z590-A PRO |
 | CPU | Intel Core i9-10850K |
 | Memory | DDR4 2666 Mhz. 32 GB |
 | NVMe SSD | SAMSUNG 980 PRO |
